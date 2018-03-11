@@ -1,0 +1,3 @@
+[submodule "base-webpack"]
+	path = base-webpack
+	url = git@github.com:renaco/basic-webpack.git
